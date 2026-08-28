@@ -35,7 +35,7 @@ An **XGBoost** classifier deployed as a REST API predicting telecom customer chu
 - **0.837 ROC-AUC** on IBM's Telco Customer Churn dataset (7,043 customers)
 - Diagnosed a hidden **data-quality bug** — disguised missing values that would silently pass a basic null check
 - Tuned the classification threshold (0.5 → 0.35) via precision-recall analysis, raising recall from **53% to 69%**
-- Deployed with **FastAPI** + Pydantic validation and interactive Swagger docs on Render
+- Deployed with **FastAPI** + Pydantic validation and interactive Swagger docs on Render.
 
 `Python` `XGBoost` `FastAPI` `Pydantic` `Render`
 
