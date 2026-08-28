@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Makarand Kulkarni 👋</h1>
-<h3 align="center">Machine Learning Engineer | Building & deploying live ML systems, not just notebooks</h3>
+<h3 align="center">Machine Learning Engineer | Building & deploying live ML systems.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/makarand-kulkarni-data"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
