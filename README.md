@@ -21,7 +21,7 @@ I build end-to-end machine learning and GenAI systems — from data ingestion an
 
 ### 🛠️ Featured Projects
 
-#### 🤖 [RAG Agent Assistant](https://github.com/Makarand-Kulkarni1/RAG-AGENT-ASSISTANT) [Live Dashboard →]https://rag-agent-assistant-pyhyzuajlt4dinzxpmaasx.streamlit.app/
+#### 🤖 [RAG Agent Assistant](https://github.com/Makarand-Kulkarni1/RAG-AGENT-ASSISTANT) [Live Dashboard →](https://rag-agent-assistant-pyhyzuajlt4dinzxpmaasx.streamlit.app/)
 A Retrieval-Augmented Generation system built **from first principles** — no high-level RAG framework — combining document retrieval, agentic tool-use, evaluation, and a live dashboard.
 - Engineered a RAG pipeline using **section-aware document chunking**, local embeddings (**Sentence-Transformers**), and **FAISS** vector search to generate grounded answers over custom documents
 - Extended the assistant with **agentic tool-use** via function-calling (Groq LLM API), letting the model decide when to call external tools instead of relying solely on retrieved text
