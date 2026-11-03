@@ -32,7 +32,7 @@ What I care about most is **why a model fails**. Across my projects I have caugh
 | 🧠 **Tiny Transformer Lab** | Text-to-SQL transformer trained from scratch, compared with LoRA and a 120B API model | 98.0% execution accuracy on 1,172 held-out questions | [Code](https://github.com/Makarand-Kulkarni1/Tiny_Transformer_Lab) |
 | 🤖 **RAG Agent Assistant** | RAG built without a framework, with function-calling tools | Retrieval accuracy 60% → 80% after fixing a chunking bug | [Code](https://github.com/Makarand-Kulkarni1/RAG-AGENT-ASSISTANT) · [Demo](https://rag-agent-assistant-pyhyzuajlt4dinzxpmaasx.streamlit.app/) |
 | 📈 **Crypto Market Regime Monitor** | Live BTC/USD regime forecast, re-run every 15 minutes | 63% accuracy vs 44% baseline after removing leakage | [Code](https://github.com/Makarand-Kulkarni1/crypto-regime-monitor-project) · [Demo](https://crypto-regime-monitor-project.streamlit.app/) |
-| 🔮 **Customer Churn Prediction API** | XGBoost churn model served as a REST API | 0.837 ROC-AUC; recall 53% → 69% via threshold tuning | [Code](https://github.com/Makarand-Kulkarni1/churn-prediction-api) · [API docs](https://churn-prediction-api-7jvh.onrender.com/docs) |
+| 🔮 **Customer Churn Prediction API** |![CI](https://github.com/Makarand-Kulkarni1/churn-prediction-api/actions/workflows/ci.yml/badge.svg) XGBoost churn model served as a REST API | 0.837 ROC-AUC; recall 53% → 69% via threshold tuning | [Code](https://github.com/Makarand-Kulkarni1/churn-prediction-api) · [API docs](https://churn-prediction-api-7jvh.onrender.com/docs) |
 
 ---
 
